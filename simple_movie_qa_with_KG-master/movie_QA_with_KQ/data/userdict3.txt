@@ -1,0 +1,218 @@
+汤姆 15 nm
+Tom Cruise	15	nm
+John Travolta	15	nm
+Audrey Hepburn	15	nm
+Katharine Hepburn	15	nm
+Ron Howard	15	nm
+Ron Weasley	15	nm
+Howard Shore	15	nm
+John Williams	15	nm
+Robin Williams	15	nm
+1956-07-09T00:00:00Z	15	bd
+1962-07-03T00:00:00Z	15	bd
+1954-02-18T00:00:00Z	15	bd
+1929-05-04T00:00:00Z	15	bd
+1907-05-12T00:00:00Z	15	bd
+1954-03-01T00:00:00Z	15	bd
+1980-03-01T00:00:00Z	15	bd
+1946-10-18T00:00:00Z	15	bd
+1932-02-08T00:00:00Z	15	bd
+1932-02-08T00:00:00Z	15	bd
+Concord	15	bp
+Syracuse	15	bp
+Englewood	15	bp
+Ixelles	15	bp
+Hartford	15	bp
+Duncan	15	bp
+Devon	15	bp
+Toronto	15	bp
+Long Island	15	bp
+Long Island	15	bp
+Samantha Lewes	15	sp
+Nicole Kidman	15	sp
+Kelly Preston	15	sp
+Andrea Dotti	15	sp
+Ludlow Ogden Smith	15	sp
+Hermione Granger	15	sp
+Barbara Ruick	15	sp
+Barbara Ruick	15	sp
+Rita Wilson	15	sp
+Katie Holmes	15	sp
+Mimi Rogers	15	sp
+Mel Ferrer	15	sp
+Thomas Jeffrey Hanks	15	bnm
+Thomas Cruise Mapother IV	15	bnm
+Audrey Kathleen Ruston	15	bnm
+Ronald William Howard	15	bnm
+John Towner Williams	15	bnm
+John Towner Williams	15	bnm
+composer	15	ocp
+film producer	15	ocp
+television actor	15	ocp
+television producer	15	ocp
+character actor	15	ocp
+television director	15	ocp
+screenwriter	15	ocp
+voice actor	15	ocp
+writer	15	ocp
+actor	15	ocp
+film director	15	ocp
+film actor	15	ocp
+film director	15	ocp
+film producer	15	ocp
+film actor	15	ocp
+singer	15	ocp
+film actor	15	ocp
+stage actor	15	ocp
+aircraft pilot	15	ocp
+television actor	15	ocp
+writer	15	ocp
+dancer	15	ocp
+film producer	15	ocp
+musician	15	ocp
+actor	15	ocp
+model	15	ocp
+film actor	15	ocp
+stage actor	15	ocp
+philanthropist	15	ocp
+dancer	15	ocp
+model	15	ocp
+actor	15	ocp
+television actor	15	ocp
+autobiographer	15	ocp
+stage actor	15	ocp
+actor	15	ocp
+film actor	15	ocp
+screenwriter	15	ocp
+television director	15	ocp
+television actor	15	ocp
+film actor	15	ocp
+voice actor	15	ocp
+film producer	15	ocp
+actor	15	ocp
+film director	15	ocp
+Quidditch player	15	ocp
+student	15	ocp
+entrepreneur	15	ocp
+magician	15	ocp
+auror	15	ocp
+film score composer	15	ocp
+conductor	15	ocp
+composer	15	ocp
+pianist	15	ocp
+film score composer	15	ocp
+conductor	15	ocp
+composer	15	ocp
+"Colin Hanks
+"	15	chl
+"Connor Cruise
+"	15	chl
+Ella Bleu Travolta	15	chl
+"Paige Howard
+"	15	chl
+"Hugo Granger-Weasley
+"	15	chl
+Rose Granger-Weasley	15	chl
+Joseph Williams	15	chl
+Bryce Dallas Howard	15	chl
+Suri Cruise	15	chl
+Isabella Jane Cruise	15	chl
+Elizabeth Hanks	15	chl
+Chet Hanks	15	chl
+Truman Hanks	15	chl
+Thomas Norval Hepburn	15	fat
+Rance Howard	15	fat
+Arthur Weasley	15	fat
+"Chabot College
+"	15	edu
+Henry Munro Middle School	15	edu
+Skyline High School	15	edu
+"California State University, Sacramento"	15	edu
+Bryn Mawr College	15	edu
+"Desilu Productions
+"	15	edu
+Hogwarts	15	edu
+Berklee College of Music	15	edu
+"Juilliard School
+"	15	edu
+"University of California, Los Angeles"	15	edu
+USC School of Cinematic Arts	15	edu
+John Burroughs High School	15	edu
+University of Southern California	15	edu
+"Jim Hanks
+"	15	sbl
+Larry Hanks	15	sbl
+"Ellen Travolta
+"	15	sbl
+Margaret Travolta	15	sbl
+Joey Travolta	15	sbl
+Clint Howard	15	sbl
+"Bill Weasley
+"	15	sbl
+Fred Weasley	15	sbl
+George Weasley	15	sbl
+Ginny Weasley	15	sbl
+Charlie Weasley	15	sbl
+Percy Weasley	15	sbl
+red hair	15	hai
+"orange hair
+red hair"	15	hai
+Big	15	wk
+Jerry Maguire	15	wk
+Pulp Fiction	15	wk
+Apollo 13	15	wk
+Cast Away	15	wk
+Philadelphia	15	wk
+Forrest Gump	15	wk
+Magnolia	15	wk
+Born on the Fourth of July	15	wk
+Saturday Night Fever	15	wk
+The Nun's Story	15	wk
+Breakfast at Tiffany's	15	wk
+Roman Holiday	15	wk
+Audrey Hepburn's Enchanted Tales	15	wk
+"Ondine, ou La naïade"	15	wk
+My Fair Lady	15	wk
+Long Day's Journey into Night	15	wk
+Summertime	15	wk
+The African Queen	15	wk
+On Golden Pond	15	wk
+Alice Adams	15	wk
+Woman of the Year	15	wk
+Guess Who's Coming to Dinner	15	wk
+The Philadelphia Story	15	wk
+Morning Glory	15	wk
+On Golden Pond	15	wk
+The Lion in Winter	15	wk
+Sabrina	15	wk
+Wait Until Dark	15	wk
+The Shootist	15	wk
+Willow	15	wk
+Splash	15	wk
+The Da Vinci Code	15	wk
+The PJs	15	wk
+Frost/Nixon	15	wk
+Cinderella Man	15	wk
+Frost/Nixon	15	wk
+Rush	15	wk
+Arrested Development	15	wk
+Curious George	15	wk
+Cocoon	15	wk
+Apollo 13	15	wk
+A Beautiful Mind	15	wk
+"Suddenly, Last Summer"	15	wk
+The Rainmaker	15	wk
+"Goodbye, Mr. Chips"	15	wk
+The Book Thief	15	wk
+E.T. the Extra-Terrestrial	15	wk
+Memoirs of a Geisha	15	wk
+Star Wars Episode IV: A New Hope	15	wk
+Schindler's List	15	wk
+Fiddler on the Roof	15	wk
+Jaws	15	wk
+Hugo	15	wk
+The Aviator	15	wk
+The Lord of the Rings: The Return of the King	15	wk
+Into the West	15	wk
+The Lord of the Rings: The Fellowship of the Ring	15	wk
+Harry Potter and the Prisoner of Azkaban	15	wk

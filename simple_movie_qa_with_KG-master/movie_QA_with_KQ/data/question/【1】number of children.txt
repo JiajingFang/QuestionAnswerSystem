@@ -1,0 +1,2 @@
+What is the number of children of PERSON
+How many children did PERSON have

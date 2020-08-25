@@ -1,0 +1,4 @@
+PERSON was born in
+Where was PERSON born
+Where is the birthplace of PERSON
+What is the place of birth of PERSON

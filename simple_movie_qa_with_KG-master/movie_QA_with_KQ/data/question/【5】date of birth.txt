@@ -1,0 +1,3 @@
+What is the date of birth of PERSON
+When was PERSON born
+What is the birthdate of PERSON
