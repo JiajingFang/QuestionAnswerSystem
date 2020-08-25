@@ -4,14 +4,14 @@ mirror from：https://blog.csdn.net/xyz1584172808/article/details/89319129
 instead of using jieba as NLP tool for Chinese, I use SpaCy for English.
 
 
-##Setup
+## Setup
 Language: Python
 Database:  Neo4j Knowledge Graph
 NLP&NER: SpaCy
 Classify:     sklearn.naive_bayes
 
 
-#Process
+## Process
 (KG is built. 
 Query templates are coded
 Query template types are trained)
