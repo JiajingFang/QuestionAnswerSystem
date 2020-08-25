@@ -1,32 +1,29 @@
 ## simple_movie_qa_with_KG
 
-使用python实现一个简单的基于知识图谱的电影问答系统
-相关搭建过程见博客：https://blog.csdn.net/xyz1584172808/article/details/89319129
+mirror from：https://blog.csdn.net/xyz1584172808/article/details/89319129
+instead of using jieba as NLP tool for Chinese, I use SpaCy for English.
 
 
-### 更新日志
-
-#### 2020-1-29
-（1）遇到webpy库的安装问题请看博文里的更新，运行前记得改数据库连接密码，开启数据库；
-
-（2）部署过程中遇到的问题可以直接在issue中提，方便后面遇到相同问题的同学；
-
-（3）拿来做毕设的同学，可以多动手实践实践，慢慢来；
-
-（4）交流尽量用邮件，邮件，邮件！
-
-#### 2019-12-3 10:56:21
-上传neo4j图数据库中的数据到data目录下。
+##Setup
+Language: Python
+Database:  Neo4j Knowledge Graph
+NLP&NER: SpaCy
+Classify:     sklearn.naive_bayes
 
 
-### Usage
-First:
+#Process
+(KG is built. 
+Query templates are coded
+Query template types are trained)
 
-    pip install  requirements.txt
-Then:
+Question Received
+Tokenizing and NER
+Match question to certain query template
+Template is used to query answer
 
-    python code.py 127.0.0.1:1234
 
-Finaly, open the brower, using address: `127.0.0.1:1234`
-### Demo:
-![](https://i.imgur.com/2YJI2Sv.png)
+
+
+
+
+
