@@ -4,3 +4,6 @@ Go to ...testforassign\simple_movie_qa_with_KG-master\movie_QA_with_KQ
 python code.py 127.0.0.1:1234
 
 visit 127.0.0.1:1234
+
+modified from https://blog.csdn.net/xyz1584172808/article/details/89891248
+https://github.com/IrvingBei/simple_movie_qa_with_KG/tree/master/movie_QA_with_KQ/data/question
