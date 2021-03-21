@@ -1,10 +1,3 @@
-#-*- coding: UTF-8 -*-
-# @Time    : 2019/4/12 15:04
-# @Author  : xiongzongyang
-# @Site    : 
-# @File    : preprocess_data.py
-# @Software: PyCharm
-
 '''
 接收原始问题
 对原始问题进行分词、词性标注等处理
@@ -16,7 +9,7 @@ import spacy
 from nltk.corpus import PlaintextCorpusReader
 from question_classification import Question_classify
 from question_template import QuestionTemplate
-# # 将自定义字典写入文件
+# # 将自定义字典写入文件(not used)
 # result = []
 # with(open("./data/userdict.txt","r",encoding="utf-8")) as fr:
 #     vocablist=fr.readlines()
@@ -49,7 +42,7 @@ class Question():
         self.init_config()
 
     def init_config(self):
-        # # 读取词汇表
+        # # 读取词汇表（not used here）
         # with(open("./data/vocabulary.txt","r",encoding="utf-8")) as fr:
         #     vocab_list=fr.readlines()
         # vocab_dict={}

@@ -1,7 +1,5 @@
 ## simple_movie_qa_with_KG
 
-mirror from：https://blog.csdn.net/xyz1584172808/article/details/89319129
-instead of using jieba as NLP tool for Chinese, I use SpaCy for English.
 
 
 ## Setup

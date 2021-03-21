@@ -1,20 +1,4 @@
-#-*- coding: UTF-8 -*-
-# @Time    : 2019/4/14 13:21
-# @Author  : xiongzongyang
-# @Site    : 
-# @File    : question_template.py
-# @Software: PyCharm
 
-'''
-
-
-
-9:nnt 参演评分 小于 x
-10:nnt 电影类型
-11:nnt nnr 合作 电影列表
-12:nnt 电影数量
-13:nnt 出生日期
-'''
 from query import Query
 import re
 
@@ -37,12 +21,8 @@ class QuestionTemplate():
             13:self.get_actor_birthday
         }
 
-        # 连接数据库
+        # 连接数据库connect to database
         self.graph = Query()
-        # 测试数据库是否连接上
-        # result=self.graph.run("match (m:Movie)-[]->() where m.title='卧虎藏龙' return m.rating")
-        # print(result)
-        # exit()
 
     def get_question_answer(self,question,template):
         # 如果问题模板的格式不正确则结束
@@ -77,7 +57,7 @@ class QuestionTemplate():
         if name_count==1:
             ## 获取nm在原问题中的下标
             tag_index = self.question_flag.index(type_str)
-            ## 获取电影名称
+            ## 获取名称
             name = self.question_word[tag_index]
             return name
         else:
@@ -165,7 +145,7 @@ class QuestionTemplate():
         answer = self.graph.run(cql)
         final_answer = answer
         return final_answer
-
+'''
     # 8:nnt 参演评分 大于 x
     def get_movie_rating_bigger(self):
         actor_name=self.get_name('nr')
@@ -237,3 +217,4 @@ class QuestionTemplate():
         answer = self.graph.run(cql)[0]
         final_answer = actor_name+"的生日是"+answer+"。"
         return final_answer
+'''

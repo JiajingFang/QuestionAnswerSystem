@@ -1,9 +1,4 @@
-#-*- coding: UTF-8 -*-
-# @Time    : 2019/4/12 15:40
-# @Author  : xiongzongyang
-# @Site    : 
-# @File    : question_classification.py
-# @Software: PyCharm
+
 
 import pandas as pd
 from pandas import Series, DataFrame
@@ -11,7 +6,6 @@ from sklearn.naive_bayes import MultinomialNB
 from sklearn.feature_extraction.text import TfidfVectorizer
 import os
 import re
-import jieba
 
 # 获取所有的文件
 def getfilelist(root_path):
@@ -52,7 +46,8 @@ class Question_classify():
                 with(open(one_file,"r",encoding="utf-8")) as fr:
                     data_list=fr.readlines()
                     for one_line in data_list:
-                        word_list=list(jieba.cut(str(one_line).strip()))
+                        #word_list=list(jieba.cut(str(one_line).strip()))
+                        word_list=list(str(one_line).strip().split())
                         # 将这一行加入结果集
                         train_x.append(" ".join(word_list))
                         train_y.append(label_num)
@@ -70,7 +65,7 @@ class Question_classify():
 
     # 预测
     def predict(self,question):
-        question=[" ".join(list(jieba.cut(question)))]
+        #question=[" ".join(list(jieba.cut(question)))]
         test_data=self.tv.transform(question).toarray()
         y_predict = self.model.predict(test_data)[0]
         # print("question type:",y_predict)
@@ -78,4 +73,3 @@ class Question_classify():
 
 if __name__ == '__main__':
     qc=Question_classify()
-    qc.predict("张学友的个人信息")
