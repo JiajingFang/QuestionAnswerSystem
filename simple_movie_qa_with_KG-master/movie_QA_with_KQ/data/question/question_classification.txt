@@ -7,8 +7,3 @@
 6:nm hair color
 7:wk who work
 8:nm who marry
-9:nnt 参演评分 小于 x
-10:nnt 电影类型
-11:nnt nnr 合作 电影列表
-12:nnt 电影数量
-13:nnt 出生日期
