@@ -1,20 +1,12 @@
 # QuestionAnswerSystem
-
-（create the KG in Neo4j eg: person.xsl）
-
-Go to .\simple_movie_qa_with_KG-master\movie_QA_with_KQ
-python code.py 127.0.0.1:1234
-
-visit 127.0.0.1:1234
-
 ## Setup 
-0.pip instal modules in requirements.txt<br>
-1。load the data csv into Neo4j and do the merge and match eg. use person.xls in import folder<br>
-2. go to simple_movie_qa_with_KG-master\movie_QA_with_KQ folder <br>
+### 0.pip instal modules in requirements.txt<br>
+### 1.load the data csv into Neo4j and do the merge and match eg. use person.xls in import folder<br>
+### 2.go to simple_movie_qa_with_KG-master\movie_QA_with_KQ folder <br>
 ```python
 python code.py 127.0.0.1:1234
 ```
-3.visit 127.0.0.1:1234 in browser
+### 3.visit 127.0.0.1:1234 in browser
 
 
 ## Building Process
