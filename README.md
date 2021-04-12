@@ -1,4 +1,5 @@
 # QuestionAnswerSystem
+![](https://github.com/JiajingFang/QuestionAnswerSystem/blob/master/simple_movie_qa_with_KG-master/movie_QA_with_KQ/image.png)
 ## Setup 
 ### 0.pip instal modules in requirements.txt<br>
 ### 1.load the data csv into Neo4j and do the merge and match eg. use person.xls in import folder<br>
