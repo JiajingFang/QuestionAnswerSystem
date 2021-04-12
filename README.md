@@ -1,4 +1,5 @@
 # QuestionAnswerSystem
+
 （create the KG in Neo4j eg: person.xsl）
 
 Go to .\simple_movie_qa_with_KG-master\movie_QA_with_KQ
@@ -6,20 +7,29 @@ python code.py 127.0.0.1:1234
 
 visit 127.0.0.1:1234
 
-## Setup
-Language: Python
-Database:  Neo4j Knowledge Graph
-NLP&NER: SpaCy
-Classify:     sklearn.naive_bayes
+## Setup 
+0.pip instal modules in requirements.txt<br>
+1。load the data csv into Neo4j and do the merge and match eg. use person.xls in import folder<br>
+2. go to simple_movie_qa_with_KG-master\movie_QA_with_KQ folder <br>
+```python
+python code.py 127.0.0.1:1234
+```
+3.visit 127.0.0.1:1234 in browser
 
 
-## Process
-(KG is built. 
-Query templates are coded
-Query template types are trained)
+## Building Process
+Language: Python<br>
+Database:  Neo4j Knowledge Graph<br>
+NLP&NER: SpaCy<br>
+Classify:     sklearn.naive_bayes<br>
 
-Question Received
-Tokenizing and NER
-Match question to certain query template
-Template is used to query answer
+### data: 
+KG is built in neo4j<br> 
+Query templates are set in data folder<br>
+Query template types are trained<br>
+<br>
+1.Question Received<br>
+2.Tokenizing and NER<br>
+3.Match question to certain query template<br>
+4.Template function is used to query answer<br>
 
