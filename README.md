@@ -2,6 +2,7 @@
 ## Setup 
 ### 0.pip instal modules in requirements.txt<br>
 ### 1.load the data csv into Neo4j and do the merge and match eg. use person.xls in import folder<br>
+remain database in Neo4j running when using the QA<br>
 ### 2.go to simple_movie_qa_with_KG-master\movie_QA_with_KQ folder <br>
 ```python
 python code.py 127.0.0.1:1234
